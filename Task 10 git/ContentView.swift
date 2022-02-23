@@ -1,9 +1,4 @@
-//
-//  ContentView.swift
-//  Task 10 git
-//
-//  Created by Артем Дербин on 23.02.2022.
-//
+
 
 import SwiftUI
 
